@@ -1,1 +1,1 @@
-https://www.google.co.jp/
+~~取り消し線~~

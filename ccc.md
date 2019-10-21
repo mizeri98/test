@@ -1,7 +1,7 @@
-　~~~ruby
-　class Hoge
-　  def hoge
-　    print 'hoge'
-　  end
-　end
-　~~~
+~~~ruby
+class Hoge
+    def hoge
+        print 'hoge'
+    end
+end
+~~~

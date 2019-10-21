@@ -1,1 +1,7 @@
-~~取り消し線~~
+　~~~ruby
+　class Hoge
+　  def hoge
+　    print 'hoge'
+　  end
+　end
+　~~~

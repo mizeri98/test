@@ -1,13 +1,4 @@
-# pre記法
-
-ソースコードは以下です。
-```
-class Hoge
-  def hoge
-    print 'hoge'
-  end
-end
-```
-見やすくなりますね
-
-
+|header1|header2|header3|
+|:--|--:|:--:|
+|align left|align right|align center|
+|a|b|c|

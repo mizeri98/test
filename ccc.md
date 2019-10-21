@@ -23,5 +23,5 @@ normal __bold__ normal
 アスタリスクもしくはアンダースコア2個で文字列を囲むことで強調にします。
 見た目は太字になります。
 
-normal ***bold*** normal  
-normal ___bold___ normal
+normal ***italic-bold*** normal  
+normal ___italic-bold___ normal

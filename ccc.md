@@ -22,3 +22,12 @@ normal _italic_ normal
 normal **bold** normal
 
 normal __bold__ normal
+
+# 強調(太字斜体)
+
+アスタリスクもしくはアンダースコア2個で文字列を囲むことで強調にします。
+見た目は太字になります。
+
+normal ***bold*** normal
+
+normal ___bold___ normal

@@ -1,6 +1,6 @@
 # ソースコード表示
 
-hoge.rb
+hoge.rbの中身は以下です。
 ```
 class Hoge
   def hoge
@@ -8,3 +8,5 @@ class Hoge
   end
 end
 ```
+見やすくなりますね
+

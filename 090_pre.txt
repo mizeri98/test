@@ -1,11 +1,11 @@
 # pre記法
 
 バッククォーテーション3つで囲みます
-```
-class Hoge
-  def hoge
-    print 'hoge'
-  end
-end
+```c
+void main(void)
+{
+    printf(“hogehoge”);
+    return;
+}
 ```
 見やすくなりますね

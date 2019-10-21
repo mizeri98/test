@@ -1,6 +1,6 @@
-# ソースコード表示
+# pre記法
 
-hoge.rbの中身は以下です。
+ソースコードは以下です。
 ```
 class Hoge
   def hoge
@@ -9,4 +9,5 @@ class Hoge
 end
 ```
 見やすくなりますね
+
 

@@ -47,7 +47,7 @@ Atomと同じく、2015年にリリースされた開発用のエディタです
 - 開発エディタランキング1位
 </details>
 
-<details><summary> 【Chrome拡張機能】Markdown New Tab </summary>
+<details><summary>(Chrome拡張機能)Markdown New Tab </summary>
 次は、「Markdown New Tab」についてです。
 
 引用元:https://chrome.google.com/webstore/detail/markdown-new-tab/demppioeofcekpjcnlkmdjbabifjnokj/related

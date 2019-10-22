@@ -51,6 +51,8 @@ Atomと同じく、2015年にリリースされた開発用のエディタです
 次は、「Markdown New Tab」についてです。
 
 引用元:https://chrome.google.com/webstore/detail/markdown-new-tab/demppioeofcekpjcnlkmdjbabifjnokj/related
+
+
 Markdown New Tabは、WebブラウザChromeの拡張機能です。Web上でマークダウン書くことができるなので、PCにソフトをインストールしなくてもすぐ使えるブラウザエディタです。
 
 「マークダウンで書く書いたデータをプレビューする」のシンプル機能しかないので、はじめて使う人にもおすすめです！

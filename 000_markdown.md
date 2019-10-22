@@ -11,7 +11,7 @@ PCであれば標準搭載のメモやOfficeのWord、直接紙に書いてい�
 # Markdownとは
 Markdown（マークダウン）は文章を記述するための記法（マークアップ言語）の一つです。
 
-<details><summary>Markdown以外のマークアップ言語には</summary>HTML、XML、RTF、SGMLなどがあります。</details>
+<details><summary>マークアップ言語は他にも</summary>HTML、XML、RTF、SGMLなどがあります。</details>
 
 Markdown（マークダウン）とは、メールを記述する時のように書きやすくて読みやすいプレーンテキストをある程度見栄えのするHTML文書へ変換できるフォーマットとしてジョン・グルーバーによって開発されました。
 

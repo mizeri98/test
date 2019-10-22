@@ -10,7 +10,7 @@
 1. ドラッグアンドドロップで画像が挿入できる
 1. プラグインの追加が不要で、そのまま使える
 </details>
-
+    
 <details><summary>Atom</summary>
 
 引用元：https://atom.io/

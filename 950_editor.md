@@ -1,7 +1,6 @@
 # Markdownエディタの紹介
 
-<details><summary>
-## Typora</summary>
+<details><summary>Typora</summary>
 
 引用元：https://typora.io/
 
